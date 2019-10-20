@@ -55,7 +55,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li>
                   <a
-                    href="https://www.facebook.com/sandip.basnet.19"
+                    href="https://www.facebook.com/mondyfy"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -64,7 +64,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://twitter.com/khaptadisandip"
+                    href="https://twitter.com/mondyfy"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -73,7 +73,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/sandip__basnet/"
+                    href="https://www.instagram.com/sandipbasnyat/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
